@@ -1,4 +1,4 @@
-<h1>Link to live page <a href="https://happy-neumann-a4c791.netlify.app"></a></h1>
+ <a href="https://happy-neumann-a4c791.netlify.app"><h1>Live page</h1></a>
 
 # Frontend Mentor - Article preview component
 
